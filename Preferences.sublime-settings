@@ -1,0 +1,15 @@
+{
+	"font_size": 14,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage",
+		"JSHint Gutter",
+		"Stylus",
+		"LESS"
+	],
+	"remember_open_files": false,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
+}
